@@ -348,6 +348,8 @@
 
 
 ## Мобильная разработка
+
+* [Coffee&Code | Community | Mobile | Android | iOS](https://t.me/coffeeCodeEverywhere) — Канал с регулярными офлайн встречами мобильных разработчиков
 * [iOS Good Reads](https://t.me/iosgr) — Ежедневная порция материалов по iOS разработке
 * [Мобайл: дизайн и разработка](https://t.me/aboutmobile) — Канал для всех, кто создает мобильные приложения
 * [Android Дичь](https://t.me/shitty_android) — Тщательно отобранные статьи и доклады по Android-разработке и смежным темам
@@ -362,6 +364,7 @@
 * [Android Architecture](https://t.me/Android_Architecture) — Чат по архитектуре в андроид приложениях.
 * [Universal Windows Platform](https://t.me/uwp_ru) — Чат разработчиков под Windows и Windows Phone.
 * [StartAndroid](https://t.me/startandroid) — Канал про Android для начинающих и продвинутых
+* [Coffee&Code | Chat | Mobile | Flutter | Android | Kotlin | iOS | Swift](https://t.me/ChatCoffeeCode) — Чат комьюнити мобильных разработчиков Coffee&Code
 
 
 [Назад к оглавлению](#Оглавление)
